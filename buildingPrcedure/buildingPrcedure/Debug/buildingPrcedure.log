@@ -1,0 +1,60 @@
+﻿  buildingPrcedure.cpp
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(11): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(12): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(14): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(15): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(16): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(17): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(18): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(19): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(20): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(95): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(96): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(123): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(155): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(156): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(216): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(217): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(218): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(219): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(224): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(225): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(226): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(227): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(232): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(233): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(234): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(235): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(240): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(241): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(242): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(243): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(260): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(261): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(262): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(263): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(268): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(269): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(270): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(271): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(276): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(277): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(278): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(279): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(284): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(285): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(286): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(287): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\repos\buildingprcedure\buildingprcedure\buildingprcedure.cpp(350): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  buildingPrcedure.vcxproj -> D:\repos\buildingPrcedure\Debug\buildingPrcedure.exe
